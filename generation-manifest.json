@@ -1,0 +1,39 @@
+{
+  "status": "blocked",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2",
+  "jobs_created": 0,
+  "error": "Requires basic plan or higher.",
+  "balance": {
+    "credits": 0,
+    "plan": "free",
+    "pricing_url": "https://higgsfield.ai/mcp-pricing"
+  },
+  "images": [
+    {
+      "index": 1,
+      "prompt": "Premium commercial product photography asset atlas. Pure uniform warm cream background #f6efe3. Exactly 2 by 2 evenly spaced grid with no border lines. Four isolated horizontal realistic foil-wrapped protein bars, generous empty padding around each, each entire bar visible and not touching others. Consistent mild three-quarter elevated front view, slightly dimensional with natural soft contact shadow. Each wrapper has identical huge bold black condensed sans-serif wordmark BITE and small legible 20g PROTEIN. Top left burnt orange wrapper flavor DARK CHOCOLATE. Top right mustard yellow wrapper flavor PEANUT BUTTER. Bottom left pale cream wrapper flavor ALMOND SEA SALT. Bottom right dusty pink wrapper flavor BERRY CACAO. Flavor names small black type on their wrappers. Only typography printed on wrappers. No text outside products, no props. Luxury playful minimalist food brand art direction, tack sharp crinkled foil details, matte printing, diffused studio lighting.",
+      "status": "submission_failed"
+    },
+    {
+      "index": 2,
+      "prompt": "Cinematic premium food ingredient exploded view, landscape 16:9, pure warm cream #f6efe3 seamless background. One realistic dark chocolate coated rectangular protein bar floats horizontally in center, split into two pieces at center to reveal dense delicious chewy date nut interior. Almonds, glossy dates, irregular dark chocolate pieces, one sculptural peanut butter dollop, tiny sea salt flakes and a small pale protein powder cloud are artfully suspended around it at different distances. All objects clear inside generous frame margins. Restrained sophisticated composition, appetizing tactile macro food photography, soft directional studio lighting, subtle shadows, no typography, no wrapper, no utensils, no people. Center bar occupies middle 50 percent width.",
+      "status": "submission_failed"
+    },
+    {
+      "index": 3,
+      "prompt": "Exactly 2x2 equal photographic editorial lifestyle grid, edge to edge photographs, no gaps, no text, no graphic overlays. Warm natural film aesthetic, premium modern healthy active living campaign. Top left: cropped athletic person's hands resting on dark dumbbells on rubber gym floor, sunlight slanting across weights, no face. Top right: creative work desk with laptop edge, notebook, ceramic coffee and a person's hand, warm afternoon sunlight. Bottom left: train travel window with motion blurred countryside, relaxed traveler's hand near window, cozy cinematic light. Bottom right: person's hand holding a small unwrapped chocolate protein bar on a mountain hike, wild alpine golden grass and distant mountains, honest outdoors atmosphere. Consistent beautiful warm natural color grading. No logos or typography.",
+      "status": "submission_failed"
+    }
+  ],
+  "video": {
+    "status": "not_submitted",
+    "reason": "No still reference assets generated; account has 0 credits and free plan.",
+    "model": "seedance_2_5",
+    "duration": 8,
+    "resolution": "1080p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "prompt": "Premium photorealistic food commercial on a pure warm cream #f6efe3 background. Begin with a single horizontal burnt orange foil wrapped BITE protein bar in a mild three quarter dimensional view. The wrapper gracefully peels away, exposing a textured dark chocolate protein bar. The bar splits in its center and almonds, dates, dark chocolate pieces, peanut butter, sea salt and protein powder gently orbit into an elegant exploded ingredient arrangement. Smooth slow camera push, clean lighting, consistent product scale and background, no extra text, no people. End with suspended ingredients and split bar held still."
+  }
+}

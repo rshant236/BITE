@@ -1,0 +1,80 @@
+[
+  {
+    "file": "wrapper-chocolate.webp",
+    "width": 700,
+    "height": 316,
+    "visibleRatio": 0.4531758626302083
+  },
+  {
+    "file": "wrapper-peanut.webp",
+    "width": 704,
+    "height": 315,
+    "visibleRatio": 0.45443471272786456
+  },
+  {
+    "file": "wrapper-almond.webp",
+    "width": 703,
+    "height": 317,
+    "visibleRatio": 0.4606831868489583
+  },
+  {
+    "file": "wrapper-berry.webp",
+    "width": 708,
+    "height": 323,
+    "visibleRatio": 0.46441396077473956
+  },
+  {
+    "file": "bar-chocolate.webp",
+    "width": 389,
+    "height": 933,
+    "visibleRatio": 0.5985927581787109
+  },
+  {
+    "file": "bar-almond.webp",
+    "width": 382,
+    "height": 914,
+    "visibleRatio": 0.6101741790771484
+  },
+  {
+    "file": "bar-berry.webp",
+    "width": 376,
+    "height": 910,
+    "visibleRatio": 0.5968742370605469
+  },
+  {
+    "file": "ingredient-almonds.webp",
+    "width": 432,
+    "height": 379,
+    "visibleRatio": 0.3482704162597656
+  },
+  {
+    "file": "ingredient-raspberry.webp",
+    "width": 388,
+    "height": 378,
+    "visibleRatio": 0.4102516174316406
+  },
+  {
+    "file": "ingredient-chocolate.webp",
+    "width": 394,
+    "height": 387,
+    "visibleRatio": 0.3438606262207031
+  },
+  {
+    "file": "ingredient-dates.webp",
+    "width": 453,
+    "height": 375,
+    "visibleRatio": 0.40827178955078125
+  },
+  {
+    "file": "ingredient-peanut.webp",
+    "width": 403,
+    "height": 400,
+    "visibleRatio": 0.424560546875
+  },
+  {
+    "file": "ingredient-salt.webp",
+    "width": 383,
+    "height": 344,
+    "visibleRatio": 0.2826385498046875
+  }
+]
